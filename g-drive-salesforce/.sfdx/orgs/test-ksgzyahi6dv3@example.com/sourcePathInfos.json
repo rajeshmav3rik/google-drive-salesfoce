@@ -1,0 +1,140 @@
+[
+    [
+        "/Users/rajesh/.Trash/google-drive-salesforce/g-drive-salesforce/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/rajesh/.Trash/google-drive-salesforce/g-drive-salesforce/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1547082001979,
+            "changeTime": 1547082001979,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/rajesh/.Trash/google-drive-salesforce/g-drive-salesforce/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/rajesh/.Trash/google-drive-salesforce/g-drive-salesforce/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1547082001979,
+            "changeTime": 1547082001979,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rajesh/.Trash/google-drive-salesforce/g-drive-salesforce/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rajesh/.Trash/google-drive-salesforce/g-drive-salesforce/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1547082020149,
+            "changeTime": 1547082020149,
+            "contentHash": "78dd78c06e81fd7afb457ecdb5af8fae5546e0a3"
+        }
+    ],
+    [
+        "/Users/rajesh/.Trash/google-drive-salesforce/g-drive-salesforce/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/rajesh/.Trash/google-drive-salesforce/g-drive-salesforce/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1547082001979,
+            "changeTime": 1547082001979,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rajesh/.Trash/google-drive-salesforce/g-drive-salesforce",
+        {
+            "state": "n",
+            "sourcePath": "/Users/rajesh/.Trash/google-drive-salesforce/g-drive-salesforce",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1547082015379,
+            "changeTime": 1547082015379,
+            "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rajesh/.Trash/google-drive-salesforce/g-drive-salesforce/force-app/main/default/classes/CatchUtilities.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rajesh/.Trash/google-drive-salesforce/g-drive-salesforce/force-app/main/default/classes/CatchUtilities.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1547082020151,
+            "changeTime": 1547082020151,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+        }
+    ],
+    [
+        "/Users/rajesh/.Trash/google-drive-salesforce/g-drive-salesforce/force-app/main/default/classes/CatchUtilities.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rajesh/.Trash/google-drive-salesforce/g-drive-salesforce/force-app/main/default/classes/CatchUtilities.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 5068,
+            "modifiedTime": 1547082020153,
+            "changeTime": 1547082020153,
+            "contentHash": "59e683857fcd892c0c158349340fffeeff7fab9e"
+        }
+    ],
+    [
+        "/Users/rajesh/.Trash/google-drive-salesforce/g-drive-salesforce/force-app/main/default/classes/GoogleDriveFileUpload.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rajesh/.Trash/google-drive-salesforce/g-drive-salesforce/force-app/main/default/classes/GoogleDriveFileUpload.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1547082020156,
+            "changeTime": 1547082020156,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+        }
+    ],
+    [
+        "/Users/rajesh/.Trash/google-drive-salesforce/g-drive-salesforce/force-app/main/default/classes/GoogleDriveFileUpload.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rajesh/.Trash/google-drive-salesforce/g-drive-salesforce/force-app/main/default/classes/GoogleDriveFileUpload.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3305,
+            "modifiedTime": 1547082020156,
+            "changeTime": 1547082020156,
+            "contentHash": "da52a4a1c329c6928478ff4920284b03e7de2601"
+        }
+    ],
+    [
+        "/Users/rajesh/.Trash/google-drive-salesforce/g-drive-salesforce/force-app/main/default/classes",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rajesh/.Trash/google-drive-salesforce/g-drive-salesforce/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1547082020156,
+            "changeTime": 1547082020156,
+            "contentHash": "700aabc22876e160aa539025ccd7799f49e6fbea"
+        }
+    ]
+]

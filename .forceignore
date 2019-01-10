@@ -1,0 +1,12 @@
+# List files or directories below to ignore them when running force:source:push, force:source:pull, and force:source:status
+# More information: https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_exclude_source.htm
+#
+
+package.xml
+
+catch-vendor-onboarding-app/main/default/objects/dsfs__DocuSign_Envelope__c/dsfs__DocuSign_Envelope__c.object-meta.xml
+catch-vendor-onboarding-app/main/default/objects/dsfs__DocuSign_Status__c/dsfs__DocuSign_Status__c.object-meta.xml
+
+catch-vendor-onboarding-app/main/default/dataSources/GoogleDrive.dataSource-meta.xml
+catch-vendor-onboarding-app/main/default/sharingSets/Vendor_Record_Access.sharingSet-meta.xml
+catch-vendor-onboarding-app/main/default/permissionsets/File_Connect.permissionset-meta.xml
